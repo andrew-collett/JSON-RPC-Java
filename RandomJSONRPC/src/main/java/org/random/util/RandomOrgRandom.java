@@ -496,7 +496,7 @@ public class RandomOrgRandom extends Random {
 					// block until new bits are available
 					Thread.sleep(100);
 				} else {
-					this.currentBlob = Base64.decodeBase64(blob);
+					this.currentBlob = Base64.decodeBase64(blob.getBytes());
 					this.currentBlobIndex = 0;
 					return;
 				}

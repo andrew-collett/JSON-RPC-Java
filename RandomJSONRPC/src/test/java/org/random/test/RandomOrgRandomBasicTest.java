@@ -14,7 +14,7 @@ public class RandomOrgRandomBasicTest {
 	
 	private static RandomOrgRandom random;
 
-	private static final String API_KEY_1 = "YOUR_API_KEY_HERE";
+	private static final String API_KEY_1 = "f9999047-5bf5-4083-8219-57025c410274";
 	
 	@BeforeClass
 	public static void testSetup() {
