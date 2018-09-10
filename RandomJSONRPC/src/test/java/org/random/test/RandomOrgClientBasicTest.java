@@ -24,7 +24,7 @@ public class RandomOrgClientBasicTest {
 	private static RandomOrgClient roc, roc2;
 	
 	private static final String API_KEY_1 = "f9999047-5bf5-4083-8219-57025c410274";
-	private static final String API_KEY_2 = "f9999047-5bf5-4083-8219-57025c410274";
+	private static final String API_KEY_2 = "6ed13a6c-678c-4ac1-8238-31953c36298b";
 	
 	private static final int BIT_QUOTA = 1000000;
 	
